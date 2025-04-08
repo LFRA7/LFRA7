@@ -11,7 +11,7 @@
 ###
 Completing a Bachelor's degree in Informatics Engineering with hands-on experience in full-stack development, with a focus on web application using React, NodeJS, and .NET technologies. Passionate about creating user-centered solutions, ranging from collaborative tools for remote teams to secure and scalable infrastructures focused on reliability and performance. Proactive, curious, and equipped with strong communication skills, with the interest to transform complex ideas into functional and intuitive software.
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Programming Languagues:</h2>
 
 ###
 
