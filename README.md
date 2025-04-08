@@ -78,6 +78,11 @@ Completing a Bachelor's degree in Informatics Engineering with hands-on experien
 
 ###
 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-6DB33F?style=flat-square)
+
 <h2 align="left">Connect with me:</h2>
 
 ###
