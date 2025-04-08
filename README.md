@@ -29,3 +29,13 @@ Completing a Bachelor's degree in Informatics Engineering with hands-on experien
 </div>
 
 ###
+
+<h2 align="left">Connect with me:</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
