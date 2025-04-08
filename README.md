@@ -1,10 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Lucas</h1>
 
 ###
 
-<p align="left">My name is Lucas and I'm a Informatics Engineering</p>
+<p align="center">Informatics Engineering at the Universidade de Trás-os-Montes e Alto Douro</p>
 
-###
+####
 
 <h2 align="left">About me</h2>
 
