@@ -29,7 +29,6 @@ Completing a Bachelor's degree in Informatics Engineering with hands-on experien
 </div>
 
 ###
-###
 
 <h2 align="left">Frontend Development:</h2>
 
