@@ -52,6 +52,18 @@ Completing a Bachelor's degree in Informatics Engineering with hands-on experien
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
 </div>
 
+###
+
+<h2 align="left">Database:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
 <h2 align="left">Connect with me:</h2>
 
 ###
