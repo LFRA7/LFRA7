@@ -4,7 +4,7 @@
 
 <p align="center">Informatics Engineering at the Universidade de Trás-os-Montes e Alto Douro</p>
 
-####
+##
 
 <h2 align="left">About me</h2>
 
