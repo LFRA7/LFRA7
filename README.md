@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Informatics Engineering at the Universidade de Trás-os-Montes e Alto Douro</p>
+<p align="center">Informatics Engineering at Universidade de Trás-os-Montes e Alto Douro</p>
 
 <hr style="border: 2px solid #000;">
 
