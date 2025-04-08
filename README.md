@@ -78,7 +78,7 @@ Completing a Bachelor's degree in Informatics Engineering with hands-on experien
 
 ###
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Contact me:</h2>
 
 ###
 
